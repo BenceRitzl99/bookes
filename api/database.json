@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "cim": "Strong minds",
+      "szerzo": "Strong Steven",
+      "ar": 395
+    },
+    {
+      "id": 2,
+      "cim": "Kis meló",
+      "szerzo": "Juhász Péter",
+      "ar": 298
+    },
+    {
+      "id": 3,
+      "cim": "A csodatevő",
+      "szerzo": "Kiss János",
+      "ar": 472
+    },
+    {
+      "id": 4,
+      "cim": "Az élet józanul",
+      "szerzo": "Pethő Zsófia",
+      "ar": 453
+    },
+    {
+      "id": 5,
+      "cim": "Játék a programozás",
+      "szerzo": "Józsa Béla",
+      "ar": 395
+    }
+  ]
+}

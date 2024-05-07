@@ -1,0 +1,16 @@
+.btn {
+    background-color: aqua;
+}
+.btn:hover{
+    background-color:black;
+    color: white;
+    font-family: sans-serif;
+}
+#masikgomb{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+#szoveg{
+    text-align: center;
+
+}
