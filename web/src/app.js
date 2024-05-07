@@ -1,3 +1,13 @@
+/*
+* File: app.js
+* Author: Ritzl Bence
+* Copyright: 2024, Ritzl Bence
+* Group: Szoft I/1/N
+* Date: 2024-05-07
+* Github: https://github.com/BenceRitzl99/
+* Licenc: GNU GPL
+*/
+
 const doc = {
     bookBody: document.querySelector("#bookBody"),
     
