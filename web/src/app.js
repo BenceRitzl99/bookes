@@ -16,7 +16,7 @@ const doc = {
 var BookList = []
 
 function getBooks() {
-    const url = "http://localhost:8000/employees"
+    const url = "http://localhost:8000/books"
     fetch(url).then(response => response.json()).then(result => {
         BookList = result
         renderTable()
